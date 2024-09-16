@@ -3,8 +3,6 @@
 
 #include <cstdio>
 
-/* TODO move into separate git submodule */
-
 #define customWarning(expression, returnMessage) do {                      \
     if (!(expression)) {                                                   \
         printf("Assertion Error: %s, file (%s), function (%s), line %d\n", \
