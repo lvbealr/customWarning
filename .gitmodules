@@ -1,0 +1,3 @@
+[submodule "colorPrint"]
+	path = colorPrint
+	url = git@github.com:lvbealr/colorPrint.git
